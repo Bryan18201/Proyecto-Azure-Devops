@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/bryann1820/2473b638-8b06-42c5-b9de-9079bd03762b/87d70a21-f84c-4d2f-9f3b-a9f330f93ce3/_apis/work/boardbadge/f4b87971-17d0-40a0-b01e-2e9e837b2954)](https://dev.azure.com/bryann1820/2473b638-8b06-42c5-b9de-9079bd03762b/_boards/board/t/87d70a21-f84c-4d2f-9f3b-a9f330f93ce3/Microsoft.RequirementCategory)
 # Proyecto-Azure-Devops
